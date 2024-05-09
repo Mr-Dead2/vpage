@@ -1,0 +1,172 @@
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #EED3D9;
+    color: #000;
+    position: bottom;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    border-radius: 7px;
+}
+
+body {
+    flex-direction: column;
+    background-color: #FFF67E;
+
+    
+}
+
+hr{
+  background-color: #FFF67E;
+  
+}
+h1{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    color: #ffff;
+    font-size: 50px;
+}
+#navbar {
+  text-align: center;
+    background-color: #416D19;
+    color: #ffff;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-radius: 7px;
+  }
+  
+  #navbar a {
+    color: #ffff;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  
+
+
+#content {
+  padding: 10px;
+}
+
+
+h2{
+  text-align: center
+}
+
+#h2nr1{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #BFEA7C;
+  padding: 10px;
+}
+
+#pnr1{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #9BCF53;
+  padding: 10px;
+}
+
+
+#h2nr2{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #BFEA7C;
+  padding: 10px;
+}
+
+#pnr2{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #9BCF53;
+  padding: 10px;
+}
+
+#h2nr3{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #BFEA7C;
+  padding: 10px;
+}
+
+
+img{
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: double;
+  border-color: #000;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th,td {
+  padding: 8px;
+  border-bottom: 2px solid black;
+  text-align: left;
+}
+
+td{
+  background-color: #9BCF53;
+}
+th {
+  background-color: #9BCF53;
+}
+
+
+#h2nr4{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #BFEA7C;
+  padding: 10px;
+}
+#pnr4{
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+  background-color: #9BCF53;
+  padding: 10px;
+}
+
+.kautkas {
+  color: #ffff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: italic;
+}
+#krasota{
+  margin: auto;
+  text-align: center;
+  height: auto;
+  width: 300px;
+  display: block;
+  background-color: #BFEA7C;
+  border-radius: 15px;
+}
+
+#icon{
+  border-radius: 5px;
+}
